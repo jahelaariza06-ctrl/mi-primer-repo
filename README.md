@@ -18,3 +18,30 @@ En Construccion 🚧
 -Eliannis Santiago-[Github]( no tiene hasta el momento )
 
 
+# 📚 Sistema de Biblioteca
+
+## Descripción
+Este proyecto permite gestionar una biblioteca de manera sencilla.
+Los usuarios pueden registrar libros, consultar información y realizar préstamos.
+
+## Tecnologías utilizadas
+- Python
+- MySQL
+- HTML
+- CSS
+
+## Funcionalidades
+- Registro de libros
+- Inicio de sesión
+- Gestión de usuarios
+- Préstamo de libros
+- Reportes
+
+## Integrantes
+- Jahela Ariza
+- Compañero 1
+- Compañero 2
+
+## Estado del proyecto
+🚧 En construcción
+
